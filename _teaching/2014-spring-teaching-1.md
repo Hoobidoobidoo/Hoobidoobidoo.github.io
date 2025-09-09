@@ -1,6 +1,6 @@
 ---
 title: "Current Research"
-collection: teaching
+collection: Research
 type: "University of Florida"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Physics"

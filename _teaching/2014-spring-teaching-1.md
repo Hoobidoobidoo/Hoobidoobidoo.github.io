@@ -1,7 +1,12 @@
 ---
 title: "Current Research"
+collection: teaching
+type: "University of Florida"
+permalink: /teaching/2014-spring-teaching-1
+venue: "Physics"
+date: 2025-09-08
+location: "Gainesville, Florida"
 ---
-
 Research Overview
 =====
 I have been doing research at the University of Florida since my freshman year. Here I will describe my most recent work.

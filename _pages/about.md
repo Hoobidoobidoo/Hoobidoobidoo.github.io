@@ -11,5 +11,5 @@ In this webpage, you can find some details about myself and my academic life. I 
 
 CV
 ======
-[Download my CV(PDF)]({{ site.baseurl }}/files/Hubert Pugzlys - CV '25.pdf)
+[Link]({{ site.baseurl }}/files/CV.pdf)
 
